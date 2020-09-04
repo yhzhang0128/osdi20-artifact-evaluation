@@ -18,6 +18,6 @@ We made 4 claims which can be found in Figure 3 of our submission. We copy-and-p
 
 We implemented 2 artifacts validating the claims.
 
-- **Archipelago-HotStuff**: the git repo is [here](https://github.com/yhzhang0128/archipelago-hotstuff). Please read its default `README.md` for instructions and contact Yunhao Zhang (yz2327@cornell.edu) for any questions about this artifact.
+- **Archipelago-HotStuff**: the git repo is [here](https://github.com/yhzhang0128/archipelago-hotstuff). Please read its default `README.md` for instructions and contact Yunhao Zhang (yz2327@cornell.edu) for any questions about this artifact. This artifact validates **all claims**.
 
-- **Archipelago-Concord**: the git repo is [here](https://github.com/MaggieQi/concord-bft/). Please switch to the **add_archipelago** branch and read `eval/README.md` for instructions. Contact Qi Chen (cheqi@microsoft.com) for any questions about this artifact.
+- **Archipelago-Concord**: the git repo is [here](https://github.com/MaggieQi/concord-bft/). Please switch to the **add_archipelago** branch and read `eval/README.md` for instructions. Contact Qi Chen (cheqi@microsoft.com) for any questions about this artifact. This artifact only validates the **first two claims**.
