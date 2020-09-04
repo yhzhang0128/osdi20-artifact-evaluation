@@ -1,10 +1,10 @@
-# OSDI20 artifact evaluation #28
+# OSDI'20 artifact evaluation #28
 
 This is the artifact evaluation submission #28 for our paper "Byzantine ordered consensus without Byzantine oligarchy".
 
 ## Claims
 
-We made 4 claims which can be found in Figure 3 of our submission. We copy-and-paste here.
+We made 4 claims which can be found in Figure 3 of our submission. We copy-and-paste them here.
 
 - **claim1**: Archipelago achieves higher throughput than its baselines at the cost of increased latency (latencies are competitive when batching commands).
 
