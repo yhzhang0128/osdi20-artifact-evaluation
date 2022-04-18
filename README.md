@@ -16,7 +16,7 @@ We made 4 claims which can be found in Figure 3 of our submission. We copy-and-p
 
 ## Artifacts
 
-**Update: ** the latest repos are here: https://github.com/Pompe-org
+**Update:** the latest repos are here: https://github.com/Pompe-org
 
 We implemented 2 artifacts validating the claims.
 
