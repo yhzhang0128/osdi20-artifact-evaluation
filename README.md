@@ -16,6 +16,8 @@ We made 4 claims which can be found in Figure 3 of our submission. We copy-and-p
 
 ## Artifacts
 
+**Update: ** the latest repos are here: https://github.com/Pompe-org
+
 We implemented 2 artifacts validating the claims.
 
 - **Archipelago-HotStuff**: the git repo is [here](https://github.com/yhzhang0128/archipelago-hotstuff). Please read its default `README.md` for instructions and contact Yunhao Zhang (yz2327@cornell.edu) for any questions about this artifact. This artifact validates **all claims**.
